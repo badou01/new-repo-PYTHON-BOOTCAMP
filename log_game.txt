@@ -1,0 +1,13 @@
+Partie: ,1, 
+Nombre de tentative:, 2, 
+Score obtenu: , 6, 
+Score max:  6Partie: ,2, 
+Nombre de tentative:, 6, 
+Score obtenu: , 24, 
+Score max:  24Partie: ,2, 
+Nombre de tentative:, 6, 
+Score obtenu: , 24, 
+Score max:  24Partie: ,1, 
+Nombre de tentative:, 4, 
+Score obtenu: , 12, 
+Score max:  12
